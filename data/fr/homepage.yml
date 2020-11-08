@@ -1,0 +1,137 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Master. Deliver. Impact."
+  content : "Démultiplier la capacité d'impact de vos produits à travers la livraison fréquente de logiciels bien conçus en développant avec vos équipes leur maîtrise du code et du delivery."
+  image : "images/promise.png"
+  button:
+   enable : true
+   label : "En savoir plus"
+   link : "contact"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Notre Démarche : \"Faire avec les équipes\""
+  image : "images/approach.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Travailler en immersion"
+    #icon : "tf-ion-ios-alarm-outline"
+    content : "Nous intervenons directement au sein des équipes sur leur base de code"
+    
+    # feature item loop
+  - title : "Redonner la maitrise du code"
+    #icon : "tf-ion-ios-bell-outline"
+    content : "Nous mettons en œuvre les bonnes pratiques de développement et les outils avec les équipes"
+    
+    # feature item loop
+  - title : "Fiabiliser le delivery"
+    #icon : "tf-ion-ios-cart-outline"
+    content : "Nous réduisons le temps de rétroaction en améliorant les processus de livvraison"
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Faire gagner en autonomie"
+    #icon : "tf-ion-ios-alarm-outline"
+    content : "Nous rendons les équipes opérationnelles sur toutes les compétences apprises"
+
+    # feature item loop
+  - title : "Accompagner le changement"
+    #icon : "tf-ion-ios-bell-outline"
+    content : "Nous commençons par désapprendre pour favoriser l'apprentissage des équipes"
+
+    # feature item loop
+  - title : "Rechercher un impact systémique"
+    #icon : "tf-ion-ios-cart-outline"
+    content : "Nous nous concentrons sur les équipes pour aller chercher un changement durable"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/commitment.svg"
+  title : "Notre Engagement : des résultats concrets et mesurables"
+  content : "Elever le niveau n'est pas une finalité pour nous, mais seulement un moyen d'améliorer la performance de vos équipes. 
+  Nous n’utilisons pas d’indicateurs de maturité et préférons nous appuyer sur des mesures tangibles de la performance de vos équipes.
+            Nous nous appuyons sur l’étude Accelerate State of DevOps de 2019 qui identifie les 4 indicateurs clé de mesure de la performance des équipes de développement : 
+              - Fréquence de déploiement
+              - Délai de mise en œuvre d’un changement 
+              - Taux d’échec d’un changement
+              - Temps de restauration du service"
+
+
+############################# About Product #######################
+about_product:
+  enable : true
+  title : "Notre Approche : augmenter les capacités de l'équipe à délivrer de la valeur"
+  items:
+    # about product item loop
+    - image : "images/master.png"
+      title : "MASTER"
+      content : "Maîtriser son code et son pipeline pour délivrer des produits et service de meilleure qualité et plus vite"
+      button:
+        enable : true
+        label : "Plus de détails"
+        link : "products/product-1"
+        
+    # about product item loop
+    - image : "images/deliver.png"
+      title : "DELIVER"
+      content : "Automatiser les processus pour livrer et déployer les applications/services en production, dans les mains des utilisateurs, de manière régulière, fréquente, et durablement"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+    # about product item loop
+    - image : "images/impact.png"
+      title : "IMPACT"
+      content : "Apporter de la valeur aux clients, enrichir continuellement l’application, retenir les talents grâce au déploiement régulier et fréquent et la maîtrise de son code et delivery"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Products ########################
+products:
+  enable : false
+  title : "Découvrez Nos Offres"
+
+
+################################## Subscription ###################
+subscription:
+  enable : true
+  bg_image : "images/call-to-action.jpg"
+  title : "Prenons contact"
+  content : "Laissez-nous votre adresse e-mail et nous vous recontacterons"
+  placeholder : "Votre adresse e-mail ici"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Nos Références"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

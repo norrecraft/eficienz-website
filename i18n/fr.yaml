@@ -1,0 +1,26 @@
+- id: "home"
+  translation: "Accueil"
+
+- id: "review"
+  translation: "Références"
+
+- id: "contact"
+  translation: "Contact"
+
+- id: "terms-conditions"
+  translation: "Termes & Conditions"
+
+- id: "privacy-policy"
+  translation: "Politique de Confidentialité"
+
+- id: "add_to_cart"
+  translation: "Ajouter au panier"
+  
+- id: "send"
+  translation: "Envoyer"
+  
+- id: "subscribe"
+  translation: "Souscrire"
+  
+- id: "read_more"
+  translation: "En Savoir Plus"
