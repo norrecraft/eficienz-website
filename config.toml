@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://norrecraft.com/eficienz/"
-title = "Vex | hugo landing page template"
+title = "Eficienz"
 theme = "vex-hugo"
 DefaultContentLanguage = "fr"
 # post excert
