@@ -1,12 +1,12 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Master. Deliver. Impact."
-  content : "Démultiplier la capacité d'impact de vos produits à travers la livraison fréquente de logiciels bien conçus en développant avec vos équipes leur maîtrise du code et du delivery."
+  title : "Developper avec vos équipes leur maîtrise du code et du delivery pour multiplier la capacité d’impact de vos produits."
+  content : "Nous sommes des coachs techniques qui accompagnons la montée en compétences de vos équipes en travaillant en immersion avec elles directement sur leur base de code."
   image : "images/promise.png"
   button:
    enable : true
-   label : "En savoir plus"
+   label : "Nous contacter"
    link : "contact"
 
 ############################# Feature ############################
@@ -75,9 +75,9 @@ about_product:
       title : "MASTER"
       content : "Maîtriser son code et son pipeline pour délivrer des produits et service de meilleure qualité et plus vite"
       button:
-        enable : true
+        enable : false
         label : "Plus de détails"
-        link : "products/product-1"
+        link : "#"
         
     # about product item loop
     - image : "images/deliver.png"
@@ -85,7 +85,7 @@ about_product:
       content : "Automatiser les processus pour livrer et déployer les applications/services en production, dans les mains des utilisateurs, de manière régulière, fréquente, et durablement"
       button:
         enable : false
-        label : "Check Features"
+        label : "Plus de détails"
         link : "#"
 
     # about product item loop
@@ -94,7 +94,7 @@ about_product:
       content : "Apporter de la valeur aux clients, enrichir continuellement l’application, retenir les talents grâce au déploiement régulier et fréquent et la maîtrise de son code et delivery"
       button:
         enable : false
-        label : "Check Features"
+        label : "Plus de détails"
         link : "#"
 
 
