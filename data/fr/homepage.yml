@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Developper avec vos équipes leur maîtrise du code et du delivery pour multiplier la capacité d’impact de vos produits."
+  title : "Développer avec vos équipes leur maîtrise du code et du delivery pour démultiplier la capacité d’impact de vos produits."
   content : "Nous sommes des coachs techniques qui accompagnons la montée en compétences de vos équipes en travaillant en immersion avec elles directement sur leur base de code."
   image : "images/promise.png"
   button:
