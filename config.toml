@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://norrecraft.com/brigade/"
+baseurl = "https://brigade.dev/"
 title = "Brigade | Technical coaching for efficient teams"
 theme = "vex-hugo"
 DefaultContentLanguage = "fr"
