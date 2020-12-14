@@ -3,5 +3,5 @@
 	url = git@github.com:norrecraft/vex-hugo.git
 [submodule "public"]
 	path = public
-	url = git@github.com:norrecraft/eficienz.git
+	url = git@github.com:norrecraft/brigade.git
 	branch = main
